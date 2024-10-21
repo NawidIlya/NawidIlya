@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NawidTechTamer
+- 👋 Hi, I’m @NawidArefi
 - 👀 I’m interested in debugging, coding, taekwondo, watching movies, etc.
 - 🌱 I’m currently learning more about front end of web designing.
 - 💞️ I’m looking to collaborate on Web Development, Learning and Experimentation and Open Source Projects.
